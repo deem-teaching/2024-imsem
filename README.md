@@ -11,3 +11,5 @@ We refer to the ISIS page at https://isis.tu-berlin.de/course/view.php?id=37947 
  * Wu et al.: [Complaint-Driven Training Data Debugging for Query 2.0](https://www2.cs.sfu.ca/~jnwang/papers/sigmod2020-rain-full-version.pdf), SIGMOD'20
  * Fan et al.: [Gen-T: Table Reclamation in Data Lakes](https://arxiv.org/pdf/2403.14128), ICDE'24
  * Khattab et al.: [DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines](https://arxiv.org/pdf/2310.03714), ICLR'24
+ * Baziotis et al.: [Dias: Dynamic Rewriting of Pandas Code](https://dl.acm.org/doi/10.1145/3639313), SIGMOD'24
+ * Shankar et al.: [Automatic and Precise Data Validation for Machine Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3614786), CIKM'23
