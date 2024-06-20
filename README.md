@@ -14,3 +14,4 @@ We refer to the ISIS page at https://isis.tu-berlin.de/course/view.php?id=37947 
  * Baziotis et al.: [Dias: Dynamic Rewriting of Pandas Code](https://dl.acm.org/doi/10.1145/3639313), SIGMOD'24
  * Shankar et al.: [Automatic and Precise Data Validation for Machine Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3614786), CIKM'23
  * Grafberger et al.: [Automating and optimizing data-centric what-if analyses on native machine learning pipelines](https://stefan-grafberger.com/mlwhatif.pdf), SIGMOD'23
+ * Sheng et al.: [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf), ICML'23
