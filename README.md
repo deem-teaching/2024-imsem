@@ -16,3 +16,4 @@ We refer to the ISIS page at https://isis.tu-berlin.de/course/view.php?id=37947 
  * Grafberger et al.: [Automating and optimizing data-centric what-if analyses on native machine learning pipelines](https://stefan-grafberger.com/mlwhatif.pdf), SIGMOD'23
  * Sheng et al.: [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf), ICML'23
  * Li et al.: [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584), VLDB'20
+ * Patel et al.: [ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data](https://arxiv.org/pdf/2403.04871), SIGMOD'24
